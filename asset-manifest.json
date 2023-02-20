@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iching/static/css/main.0d32b866.css",
+    "main.js": "/iching/static/js/main.3114dca8.js",
+    "static/js/787.7303c5b8.chunk.js": "/iching/static/js/787.7303c5b8.chunk.js",
+    "static/media/logo.svg": "/iching/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/iching/index.html",
+    "main.0d32b866.css.map": "/iching/static/css/main.0d32b866.css.map",
+    "main.3114dca8.js.map": "/iching/static/js/main.3114dca8.js.map",
+    "787.7303c5b8.chunk.js.map": "/iching/static/js/787.7303c5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d32b866.css",
+    "static/js/main.3114dca8.js"
+  ]
+}
